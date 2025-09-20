@@ -41,20 +41,4 @@ Logistic Regression (SMOTE Data)
 
 The Decision Tree model demonstrated significantly better performance, achieving a 0.96 F1-Score. This result proves that it is the superior choice for a real-world application, offering a substantial boost in predictive accuracy for identifying approved and non-approved loan applications.
 # ___
-Repository Contents
-notebooks/: Jupyter notebooks detailing the full data analysis, model training, and evaluation process.
 
-src/: Python scripts for data cleaning, feature engineering, and model inference.
-
-data/: The raw dataset used for the analysis.
-
-How to Reproduce
-Clone this repository:
-
-git clone <repository-url>
-
-Install the necessary dependencies:
-
-pip install -r requirements.txt
-
-Navigate to the notebooks/ directory and run the notebooks in sequential order.
